@@ -13,7 +13,7 @@ namespace Calculator
 		{
 			MainClass _program = new MainClass ();
 
-			_program.uInput.justTesting ();
+			_program.uInput.getUserCommands ();
 		}
 	}
 }
