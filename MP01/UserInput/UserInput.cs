@@ -6,6 +6,7 @@ namespace UserInput
 	public class UInput
 	{
 		About.Me about=new About.Me();
+		Colors.ForCLI _c=new Colors.ForCLI();
 
 		public UInput ()
 		{
@@ -13,6 +14,7 @@ namespace UserInput
 
 		public void sayHallo ()
 		{
+			_c.Defolt ();
 			Console.WriteLine ("Добре Дошли в "+about.shortName+"\n"+about.version+"\n");
 		}
 
@@ -23,11 +25,15 @@ namespace UserInput
 			do
 			{
 				//Взимане на команда
-				Console.Write("$ ");
-				_command=Console.ReadLine();
+				_c.Promt(); Console.Write("$ ");
+				_c.Comand(); _command=Console.ReadLine();
 
 				//Проверка за налични команди
-				if(_command.ToLower().Contains("команда1")) Console.WriteLine("Стартирана е команда 1\n");
+				if(_command.ToLower().Contains("команда1")) 
+				{
+					_c.Defolt(); Console.Write("Стартирана е ");
+					_c.Result(); Console.WriteLine("команда 1\n");
+				}
 				if(_command.ToLower().Contains("команда2")) Console.WriteLine("Стартирана е команда 2\n");
 				if(_command.ToLower().Contains("команда3")) Console.WriteLine("Стартирана е команда 3\n");
 
