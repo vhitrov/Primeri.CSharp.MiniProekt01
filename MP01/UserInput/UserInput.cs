@@ -2,11 +2,20 @@
 
 namespace UserInput
 {
+
 	public class UInput
 	{
+		About.Me about=new About.Me();
+
 		public UInput ()
 		{
 		}
+
+		public void sayHallo ()
+		{
+			Console.WriteLine ("Добре Дошли в "+about.shortName+"\n"+about.version+"\n");
+		}
+
 		public void getUserCommands ()
 		{
 			string _command = "";
