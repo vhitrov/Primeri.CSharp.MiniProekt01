@@ -1,0 +1,13 @@
+D:\aula\primeri.csharp.miniproject01\MP01\Calculations\bin\Release\Calculations.dll
+D:\aula\primeri.csharp.miniproject01\MP01\Calculations\bin\Release\Calculations.pdb
+D:\aula\primeri.csharp.miniproject01\MP01\Calculations\bin\Release\Colors.dll
+D:\aula\primeri.csharp.miniproject01\MP01\Calculations\bin\Release\mscorlib.dll
+D:\aula\primeri.csharp.miniproject01\MP01\Calculations\bin\Release\Colors.pdb
+D:\aula\primeri.csharp.miniproject01\MP01\Calculations\bin\Release\normidna.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\Calculations\bin\Release\normnfc.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\Calculations\bin\Release\normnfd.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\Calculations\bin\Release\normnfkc.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\Calculations\bin\Release\normnfkd.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\Calculations\obj\Release\Calculations.csprojResolveAssemblyReference.cache
+D:\aula\primeri.csharp.miniproject01\MP01\Calculations\obj\Release\Calculations.dll
+D:\aula\primeri.csharp.miniproject01\MP01\Calculations\obj\Release\Calculations.pdb
