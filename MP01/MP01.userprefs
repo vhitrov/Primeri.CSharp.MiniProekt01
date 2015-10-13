@@ -2,8 +2,10 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="UserInput\UserInput.cs">
     <Files>
-      <File FileName="Calculator\Program.cs" Line="20" Column="1" />
-      <File FileName="UserInput\UserInput.cs" Line="34" Column="2" />
+      <File FileName="Calculator\Program.cs" Line="18" Column="4" />
+      <File FileName="UserInput\UserInput.cs" Line="35" Column="18" />
+      <File FileName="About\me.cs" Line="3" Column="16" />
+      <File FileName="Colors\ForCLI.cs" Line="28" Column="49" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

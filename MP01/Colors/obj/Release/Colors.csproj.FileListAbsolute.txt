@@ -1,0 +1,10 @@
+D:\aula\primeri.csharp.miniproject01\MP01\Colors\bin\Release\Colors.dll
+D:\aula\primeri.csharp.miniproject01\MP01\Colors\bin\Release\Colors.pdb
+D:\aula\primeri.csharp.miniproject01\MP01\Colors\bin\Release\mscorlib.dll
+D:\aula\primeri.csharp.miniproject01\MP01\Colors\bin\Release\normidna.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\Colors\bin\Release\normnfc.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\Colors\bin\Release\normnfd.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\Colors\bin\Release\normnfkc.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\Colors\bin\Release\normnfkd.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\Colors\obj\Release\Colors.dll
+D:\aula\primeri.csharp.miniproject01\MP01\Colors\obj\Release\Colors.pdb

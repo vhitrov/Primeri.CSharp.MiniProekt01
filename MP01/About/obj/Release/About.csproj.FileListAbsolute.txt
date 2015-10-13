@@ -1,0 +1,11 @@
+D:\aula\primeri.csharp.miniproject01\MP01\About\bin\Release\About.dll
+D:\aula\primeri.csharp.miniproject01\MP01\About\bin\Release\About.pdb
+D:\aula\primeri.csharp.miniproject01\MP01\About\bin\Release\mscorlib.dll
+D:\aula\primeri.csharp.miniproject01\MP01\About\bin\Release\normidna.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\About\bin\Release\normnfc.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\About\bin\Release\normnfd.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\About\bin\Release\normnfkc.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\About\bin\Release\normnfkd.nlp
+D:\aula\primeri.csharp.miniproject01\MP01\About\obj\Release\About.csprojResolveAssemblyReference.cache
+D:\aula\primeri.csharp.miniproject01\MP01\About\obj\Release\About.dll
+D:\aula\primeri.csharp.miniproject01\MP01\About\obj\Release\About.pdb
