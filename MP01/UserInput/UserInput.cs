@@ -36,6 +36,17 @@ namespace UserInput
 
 				if(_command.ToLower().Contains("иъгъл"))  _calc.F03.calc(_command);
 
+				if(_command.ToLower().Contains("помощ") || 
+					_command.ToLower() == "п")            _calc.comands();
+
+				if(_command.ToLower() == "изчисти" ||
+					_command.ToLower() == "и")
+				{
+					Console.Clear();
+					_c.Defolt();
+					Console.WriteLine ("Добре Дошли в "+about.shortName+"\n"+about.version+"\n");
+				}
+
 			}while (_command.ToLower() != "изход");
 				
 
