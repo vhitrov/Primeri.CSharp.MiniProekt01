@@ -9,7 +9,9 @@ namespace Calculations
 		//Библиотеки
 		private Colors.ForCLI _c=new Colors.ForCLI();
 
-		public Formula01 () //Формула за обикновена строителна яма
+		/// <summary>
+		/// Конструктор на Формула 01.</summary>
+		public Formula01 () 
 		{
 		}
 
@@ -43,7 +45,8 @@ namespace Calculations
 			}
 		}
 
-		//Изчисляване и изписване
+		/// <summary>
+		/// Вътрешен метод за пресмятане на Формула 01, след парсване на командата от потребителя.</summary>
 		private bool runCalculations(string[] _param, out double _result)
 		{
 			try {
@@ -66,7 +69,10 @@ namespace Calculations
 			_result = 0;
 			return false;
 		}
-		//Помощ за командата
+
+
+		/// <summary>
+		///Вътрешен метод показващ синтаксиса на командата в командният ред .</summary>
 		private void help()
 		{
 			_c.Result (); Console.Write ("[яма]");
